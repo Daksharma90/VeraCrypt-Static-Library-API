@@ -10,9 +10,9 @@ step 1: Change the directory to the directory where the source code is present.
 step 2: cd to src.
 
 now execute the command:
-make NOGUI=1;
+make NOGUI=1; // as we are working in command line so we dont require GUI.
 
-This will creaye a executable in Main named as "veracrypt".
+This will create an executable in Main named as "veracrypt".
 
 now copy the files of this respository and do change the file paths in source code as per your system.
 
