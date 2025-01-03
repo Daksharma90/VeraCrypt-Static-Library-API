@@ -1,4 +1,4 @@
-# VeraCrypt-Static-Library-API
+# VeraCrypt-Static-Library-API - Using this API one can create hidden storages which can be used to store sensitive stuff.
 
 Requirements of this API:
 
